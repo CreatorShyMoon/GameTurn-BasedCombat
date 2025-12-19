@@ -43,3 +43,11 @@ bash
 ХОД ГОБЛИНА
 Гоблин атакует Герой!
 Герой получил 15 урона. [HP: 85]
+
+
+ДИАГРАММА КЛАССОВ
+
+
+<img width="954" height="916" alt="image" src="https://github.com/user-attachments/assets/712881c5-4817-4f0a-b557-514000817b01" />
+
+
